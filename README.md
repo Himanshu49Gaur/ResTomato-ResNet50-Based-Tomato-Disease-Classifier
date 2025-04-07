@@ -103,9 +103,6 @@ cd ResTomato-ResNet50-Based-Tomato-Disease-Classifier
 pip install -r requirements.txt
 ```
 
-> If `requirements.txt` is missing, install packages manually:
-```
-
 
 ---
 
